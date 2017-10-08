@@ -9,8 +9,14 @@
 	overflow: hidden;
 }
 
-.sth{
-	position: center;
-	margin: 10px, 15px;
-	color: #a9a9a9
+.sth {
+	/*position:relative;
+	display: block;
+	float:left;*/
+	max-width:20%;
+	text-align: center;
+	margin: 10px auto;
+	border: solid 2px black;
+	padding: 10px;
+	color: #000099;
 }
