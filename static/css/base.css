@@ -1,0 +1,16 @@
+/*nothing to see here*/
+
+.mBox {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%; font-weight: bold;
+	background-color: #dadada;
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+}
+
+.sth{
+	position: center;
+	margin: 10px, 15px;
+	color: #a9a9a9
+}
