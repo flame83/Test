@@ -1,0 +1,22 @@
+/*nothing to see here*/
+
+.mBox {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 100%; font-weight: bold;
+	background-color: #dadada;
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+}
+
+.sth {
+	/*position:relative;
+	display: block;
+	float:left;*/
+	max-width:20%;
+	text-align: center;
+	margin: 10px auto;
+	border: solid 2px black;
+	padding: 10px;
+	color: #000099;
+}
